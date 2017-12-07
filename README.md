@@ -10,5 +10,5 @@ ATEC is a low cost, push button formal equivalence checker, currently supporting
 
 We receive open source C/C++ and RTL, and prove the equivalence using our C-RTL equivalence checker `ATEC` for free. Please submit your request by open an issue.
 
-# About us
-ATEC Technologies, Inc. is a startup technology company that specializes in Formal Verification. ATEC was founded in 2011 in Santa Clara.
+# About Us
+ATEC Technologies, Inc. is a startup technology company that specializes in Formal Verification. ATEC was founded in 2011 in Santa Clara. Currently, we have technology support team in USA and China.
