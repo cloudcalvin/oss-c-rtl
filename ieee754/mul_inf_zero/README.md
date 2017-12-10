@@ -6,4 +6,6 @@ License: MIT
 
 # issue
 
-issue link: https://github.com/dawsonjon/fpu/issues/13  
+issue link: https://github.com/dawsonjon/fpu/issues/13 
+
+![waveform](waveform.png)
