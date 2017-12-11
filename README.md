@@ -10,3 +10,6 @@ We receive open source C/C++ and RTL, and prove the equivalence using our C-RTL 
 
 # About Us
 ATEC Technologies, Inc. is a startup technology company that specializes in Formal Verification. ATEC was founded in 2011 in Santa Clara. Currently, we have technology support team in USA and China.
+
+We have caught FPU/GPU bugs in Huawei (http://www.huawei.com), Mediatek (www.mediatek.com) and Vivante (www.vivantecorp.com/
+).
