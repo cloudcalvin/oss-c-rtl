@@ -12,3 +12,8 @@ We receive open source C/C++ and RTL, and prove the equivalence using our C-RTL 
 ATEC Technologies, Inc. is a startup technology company that specializes in Formal Verification. ATEC was founded in 2011 in Santa Clara. Currently, we have technology support team in USA and China.
 
 We have caught `FPU`/`GPU` bugs in Huawei (http://www.huawei.com), Mediatek (http://www.mediatek.com), Vivante (http://www.vivantecorp.comi) and PowerCORE (http://www.powercore.com.cn).
+
+# Publications
+
+[朱青. 向量定点运算单元的形式化验证[D].西安电子科技大学,2017.](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFDTEMP&filename=1017297286.nh)
+[朱峰. 浮点估值模块设计和形式化验证研究[D].苏州大学,2017.](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFDTEMP&filename=1018034267.nh)
