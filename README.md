@@ -15,5 +15,5 @@ We have caught `FPU`/`GPU` bugs in Huawei (http://www.huawei.com), Mediatek (htt
 
 # Publications
 
-[朱青. 向量定点运算单元的形式化验证[D].西安电子科技大学,2017.](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFDTEMP&filename=1017297286.nh)
-[朱峰. 浮点估值模块设计和形式化验证研究[D].苏州大学,2017.](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFDTEMP&filename=1018034267.nh)
+* [朱青. 向量定点运算单元的形式化验证[D].西安电子科技大学,2017.](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFDTEMP&filename=1017297286.nh)
+* [朱峰. 浮点估值模块设计和形式化验证研究[D].苏州大学,2017.](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFDTEMP&filename=1018034267.nh)
